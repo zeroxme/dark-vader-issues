@@ -1,21 +1,24 @@
 # Dark Vader
 
-## How it works?
 
-1. **Setup your colour system**
+## How it works?
+![step 1](media/dark-vader.jpg)
+
+
+1. **Setup your colour system.**
 Make sure you have them published.
 
 ![step 1](media/step-1.jpg)
 
 
-2. **Select layers and use "👩‍💻 Setup" from Dark Vader menu**
+2. **Select layers and use "👩‍💻 Setup" from Dark Vader menu.**
 Make sure your published styles are used. Copy the color IDs into your own version of this AirTable [template]
 [Template link](https://airtable.com/shrJ5fqeb5a3Nq3H6).
 
 https://user-images.githubusercontent.com/3534296/139605163-21d2a0cd-b666-46ca-9980-5407ac5a3234.mp4
 
 
-3. **After setting up AirTable copy the table link and paste it into "🖤 convert"**
+3. **After setting up AirTable copy the table link and paste it into "🖤 convert".**
 Enjoy using Dark Vader. Just keep that link or bookmark it somewhere.
 
 https://user-images.githubusercontent.com/3534296/139605167-ec608147-a3fe-4cf9-8162-fb1669ad39ae.mp4
