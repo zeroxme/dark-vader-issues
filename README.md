@@ -1,8 +1,7 @@
 # Dark Vader
-
+![step 1](media/dark-vader.jpg)
 
 ## How it works?
-![step 1](media/dark-vader.jpg)
 
 
 1. **Setup your colour system.**
